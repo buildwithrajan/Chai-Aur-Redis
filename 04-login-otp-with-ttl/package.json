@@ -1,4 +1,4 @@
-{"name": "login-otp-with-ttl",
+{"name": "04-login-otp-with-ttl",
   "version": "1.0.0",
   "preferGlobal": true,
   "main": "index.js",
